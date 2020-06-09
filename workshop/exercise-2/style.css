@@ -1,11 +1,15 @@
 p {
+    margin: auto;
 }
 
 .one {
+    background: yellowgreen;
 }
 
 .two {
+    background: seagreen;
 }
 
 .three {
+    font-size:xx-large;
 }
