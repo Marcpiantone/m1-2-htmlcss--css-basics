@@ -3,13 +3,13 @@ p {
 }
 
 .one {
-    background: yellowgreen;
+    background:pink ;
 }
 
 .two {
-    background: seagreen;
+    background: fuchsia;
 }
 
 .three {
-    font-size:xx-large;
+    font-size: 5em;;
 }
