@@ -19,23 +19,37 @@ li {
 /* ADD CSS BELOW */
 
 body {
+  margin: 20px
 }
 
 h1,
 h2 {
+  font-family: 'Bangers', cursive;
+  text-align: center;
 }
 
 h1 {
+  font-size: 3em;
+  margin-top:20px;
 }
 
 h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
 }
 
 .row {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
 }
 
 .col {
+  border: dashed 1px;
+  background-color: lightgray ;
+  padding: 20px;
 }
 
 .image {
+  height: 200px;
 }
